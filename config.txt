@@ -1,0 +1,2 @@
+uipath;"C:\Users\Administrator\AppData\Local\Programs\UiPath\Studio\UiPath.Studio.exe"
+word;"C:\Program Files (x86)\Microsoft Office\root\Office16\WINWORD.EXE"

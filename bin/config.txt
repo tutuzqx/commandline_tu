@@ -1,0 +1,4 @@
+uipath;"C:\Users\Administrator\AppData\Local\Programs\UiPath\Studio\UiPath.Studio.exe"
+leidian;"D:\leidian\LDPlayer9\dnplayer.exe"
+word;"C:\Program Files (x86)\Microsoft Office\root\Office16\WINWORD.EXE"
+six;"D:\Users\Administrator\AppData\Roaming\SixFeetLane\sixvpn.exe"
